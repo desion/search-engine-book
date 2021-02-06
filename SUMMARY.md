@@ -1,4 +1,3 @@
-# Table of contents
+# 搜索是如何排序的
 
-* [走进搜索引擎](README.md)
-
+* [搜索技术之原理篇](CHAPTER1.md)
