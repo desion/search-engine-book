@@ -1,2 +1,2 @@
-# search-engine-book
-搜索引擎策略算法书，介绍搜索引擎排序的基本原理以及涉及到的相关算法与技术
+# Initial page
+
